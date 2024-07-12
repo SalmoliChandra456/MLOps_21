@@ -1,0 +1,9 @@
+[submodule "MLOps_21"]
+	path = MLOps_21
+	url = https://github.com/SalmoliChandra456/MLOps_21.git
+[submodule "Multticonttainer"]
+	path = Multticonttainer
+	url = https://github.com/SalmoliChandra456/Multticonttainer.git
+[submodule "packaging-ml-model"]
+	path = packaging-ml-model
+	url = https://github.com/SalmoliChandra456/packaging-ml-model.git
